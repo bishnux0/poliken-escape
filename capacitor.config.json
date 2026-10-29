@@ -1,0 +1,7 @@
+{
+  "appId": "com.yourname.polikenescape",
+  "appName": "Poliken Escape",
+  "webDir": "www",
+  "backgroundColor": "#0b2a1a",
+  "android": { "allowMixedContent": false }
+}
